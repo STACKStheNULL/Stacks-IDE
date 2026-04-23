@@ -7,6 +7,7 @@ lightweight C++ daemon that drives compilation and interactive shells.
 ![Stacks IDE screenshot](STACKS-IDE.png)
 
 > Powered by [STACKS the NULLS](https://x.com/stacksthenulls) · Developer [0xSaad](https://x.com/0xdonzdev)
+> [Perplexity](https://www.perplexity.ai/) & [Claude Code](https://claude.ai/)
 
 ---
 
